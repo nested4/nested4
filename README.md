@@ -25,25 +25,5 @@ My Secret Sauce
 
 🎉 Celebrator of successful test runs with virtual confetti and fireworks
 
-Let's Connect
-📧 Email: [insert your email here]
-
-🐦 Twitter: [insert your Twitter handle here]
-
-🔗 LinkedIn: [insert your LinkedIn profile link here]
-
 Thanks for stopping by! Happy testing! 🤖
 
-And here's a little about me:
-
-java
-Copy code
-public class Ihsan {
-  public static void main(String[] args) {
-    System.out.println("I'm a software development engineer in test!");
-    System.out.println("I'm passionate about automation and testing.");
-    System.out.println("I love to use the tools above to make my life easier.");
-  }
-}
-Thanks for stopping by!
-<--
