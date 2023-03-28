@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/111647146/228283737-6bec0b10-ea3e-423f-a4d6-a897d8c6a006.png)
 
-Hi there, I'm a Software Development Engineer in Test!
+I'm a Software Development Engineer in Test!
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="">
 My Superpowers
 
