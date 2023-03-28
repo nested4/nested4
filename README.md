@@ -17,6 +17,7 @@ My Superpowers
 📊 Knowledgeable in Agile methodologies and Scrum ceremonies
 
 My Secret Sauce
+
 🎨 Passionate about creating colorful and creative test cases
 
 🤪 Believer in adding fun and humor to the team
