@@ -5,11 +5,12 @@
 Hi there, I'm a Software Development Engineer in Test!
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="">
 My Superpowers
+
 🚀 Expert in Selenium WebDriver, Java, Maven, Cucumber, JUnit, Jira, Jira Xray, XML, HTML, Jenkins, JDBC, Postman, Rest Assured, Page Object Model, Git, and GitHub
 
 💻 Proficient in using IntelliJ and other popular IDEs
 
-👨‍🔬 Experienced in manual and automated testing of web applications
+👨‍🔬 Experienced in manual and automated testing of web and mobile applications
 
 🔍 Skilled in analyzing test results and creating defects in Jira and Test management in Jira Xray
 
@@ -46,15 +47,3 @@ public class Ihsan {
 }
 Thanks for stopping by!
 <--
-### Hi there 👋
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
