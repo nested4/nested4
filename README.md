@@ -4,9 +4,9 @@
 
  <h1 align=center style="color:aqua" >👋🏻 Welcome to my GitHub Profile 🤖 </h1>
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Software+Development+Engineer+In+Test.;I+am+sharing+my+projects+in+here;I+suggest+you+review+it+to+know+about+me+👩🏻‍💻;)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Hi!+I+am+Ihsan;A+Full+Stack+Automation+Engineer+in+Turkey;I+am+a+Software+Development+Engineer+In+Test;You+can+find+some+useful+stuff+in++my+projects;Check+it+out🏻‍💻;)  
 
-My name is Ihsan 👩🏻‍💻
+ 👩🏻‍💻
 
 ![image](https://user-images.githubusercontent.com/111647146/228283737-6bec0b10-ea3e-423f-a4d6-a897d8c6a006.png)
 
