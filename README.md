@@ -27,6 +27,12 @@ My Secret Sauce
 🤪 Believer in adding fun and humor to the team
 
 👻 Master of spooky testing during Halloween season
+Tech I Use:
+ C#  testng Cucumber appium api swagger    css3 javascript cypress
+
+Tools I Use:
+IntelliJ    appiumInspector postman   maven Jira xray
+jenkins
 
 🎉 Celebrator of successful test runs with virtual confetti and fireworks
 
