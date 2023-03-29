@@ -1,4 +1,7 @@
+Hi 👋🏻 Welcome to my GitHub profile 🍀
+Typing SVG
 
+My name is Ihsan 👩🏻‍💻
 
 ![image](https://user-images.githubusercontent.com/111647146/228283737-6bec0b10-ea3e-423f-a4d6-a897d8c6a006.png)
 
