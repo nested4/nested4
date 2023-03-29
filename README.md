@@ -4,7 +4,7 @@
 
  <h1 align=center style="color:aqua" >👋🏻 Welcome to my GitHub Profile 🤖 </h1>
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Hi!+I+am+Ihsan+¯\_(ツ)_/¯;A+Full+Stack+Automation+Engineer+👨🏻‍💻;An+Electronics+Engineer+💡+⚡+⏚+⎍+⎓;And+a+Sinologist+☯+⛩️+🍜+🉐+㊗;You+can+find+some+useful+stuff+in+my+repos;Check+it+out!;)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Hi!+I+am+Ihsan+¯\\_(ツ)_/¯;A+Full+Stack+Automation+Engineer+👨🏻‍💻;An+Electronics+Engineer+💡+⚡+⏚+⎍+⎓;And+a+Sinologist+☯+⛩️+🍜+🉐+㊗;You+can+find+some+useful+stuff+in+my+repos;Check+it+out!;)  
 
  
 
