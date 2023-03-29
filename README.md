@@ -2,7 +2,12 @@
 <!--  <img src="https://komarev.com/ghpvc/?username=nested4&&style=plastics&&color=red" align="right"/> -->
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
  <h1 align=center style="color:aqua" >👋🏻 Welcome to my GitHub Profile 🤖 </h1>
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
  
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Hi!+I+am+Ihsan+¯\\_(ツ)_/¯;A+Full+Stack+Automation+Engineer+👨🏻‍💻;An+Electronics+Engineer+💡+⚡+⏚+⎍+⎓;And+a+Sinologist+☯+⛩️+🍜+🉐+㊗;You+can+find+some+useful+stuff+in+my+repos;Check+it+out!)
@@ -60,7 +65,7 @@ Thanks for stopping by! Happy testing! 🤖
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png">
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">][html]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.hizliresim.com/bhkcevy.png" alt="javascript" width="38" height="38"/> <img src="[https://i.hizliresim.com/bhkcevy.png](https://asset.brandfetch.io/idIq_kF0rb/idZxkJkFIi.svg)" alt="javascript" width="38" height="38"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.hizliresim.com/bhkcevy.png" alt="javascript" width="38" height="38"/>
  
 
 
