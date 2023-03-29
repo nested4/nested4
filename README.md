@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> <img src="https://komarev.com/ghpvc/?username=nested4&&style=plastics&&color=black" align="right"/></p>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> <img src="https://komarev.com/ghpvc/?username=nested4&&style=plastics&&color=red" align="right"/></p>
 
  <h1 align=center style="color:aqua" >Hi 👋🏻 Welcome to my GitHub profile 🍀 </h1>
  
