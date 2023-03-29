@@ -16,10 +16,14 @@
 <!-- ![image](https://user-images.githubusercontent.com/111647146/228283737-6bec0b10-ea3e-423f-a4d6-a897d8c6a006.png) -->
 
 <h2> I'm a Software Development Engineer in Test!</h2> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="">
 
 <h2>My Superpowers: </h2>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 🚀 Expert in Selenium WebDriver, Java, Maven, Cucumber, JUnit, Jira, Jira Xray, XML, HTML, Jenkins, JDBC, Postman, Rest Assured, Page Object Model, Git, and GitHub
 
@@ -112,17 +116,11 @@ Thanks for stopping by! Happy testing! 🤖
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- <h2 align="center">
-</h2>  
 
 <!-- Coder Uncle Pic
 <div id="header" align="right">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>-->
 
-
-   
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
  
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -133,4 +131,7 @@ Thanks for stopping by! Happy testing! 🤖
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nested4&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br/> 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/nested4)
+ 
+   
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
