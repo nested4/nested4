@@ -143,7 +143,7 @@ Thanks for stopping by! Happy testing! 🤖
 ![](https://github.com/nested4/nested4/raw/output/github-contribution-grid-snake.svg)
 
 
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
+<!-- ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif) -->
 
 
 
