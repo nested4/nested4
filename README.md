@@ -1,5 +1,11 @@
 ![image](https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966)
 
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> <img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=blueviolet" align="right"/></p>
+
+ <h1 align=center style="color:aqua" >Hi 👋🏻 Welcome to my GitHub profile 🍀 </h1>
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Software+Test+Engineer.;I+am+sharing+my+projects+in+here;I+suggest+you+review+it+to+know+about+me+👩🏻‍💻;)  
+
 My name is Ihsan 👩🏻‍💻
 
 ![image](https://user-images.githubusercontent.com/111647146/228283737-6bec0b10-ea3e-423f-a4d6-a897d8c6a006.png)
@@ -30,11 +36,7 @@ My Secret Sauce
 
 Thanks for stopping by! Happy testing! 🤖
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> <img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=blueviolet" align="right"/></p>
 
- <h1 align=center style="color:aqua" >Hi 👋🏻 Welcome to my GitHub profile 🍀 </h1>
- 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Software+Test+Engineer.;I+am+sharing+my+projects+in+here;I+suggest+you+review+it+to+know+about+me+👩🏻‍💻;)  
 
 <h2>My name is Zeliha 👩🏻‍💻 </h2> 
 
