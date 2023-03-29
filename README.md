@@ -17,7 +17,7 @@
 
 <h2> I'm a Software Development Engineer in Test!</h2> 
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="">
 
 <h2>My Superpowers: </h2>
 
@@ -52,7 +52,7 @@ My Secret Sauce
 Thanks for stopping by! Happy testing! 🤖
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+<p align="center">
 <h3> align="center" Tech I Use:</h3>
 
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">][java]
@@ -130,4 +130,4 @@ Thanks for stopping by! Happy testing! 🤖
  
    
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
-
+</p>
