@@ -4,7 +4,8 @@
 
  <h1 align=center style="color:aqua" >👋🏻 Welcome to my GitHub Profile 🤖 </h1>
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Hi!+I+am+Ihsan+¯\\_(ツ)_/¯;A+Full+Stack+Automation+Engineer+👨🏻‍💻;An+Electronics+Engineer+💡+⚡+⏚+⎍+⎓;And+a+Sinologist+☯+⛩️+🍜+🉐+㊗;You+can+find+some+useful+stuff+in+my+repos;Check+it+out!;)  
+<!-- %7C -> alttaki yaziya | eklememize yariyor -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Hi!+I+am+Ihsan+¯\\_(ツ)_/¯;A+Full+Stack+Automation+Engineer+👨🏻‍💻;An+Electronics+Engineer+💡+⚡+⏚+⎍+⎓;And+a+Sinologist+☯+⛩️+🍜+🉐+㊗;You+can+find+some+useful+stuff+in+my+repos;Check+it+out!)
 
 
 <!-- ![image](https://user-images.githubusercontent.com/111647146/228283737-6bec0b10-ea3e-423f-a4d6-a897d8c6a006.png) -->
@@ -113,8 +114,7 @@ Thanks for stopping by! Happy testing! 🤖
 <div id="header" align="right">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>-->
 
-<!-- %7C -> alttaki yaziya | eklememize yariyor -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Software+Library+Channel;+Click+image+to+join+our+server)
+
    
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
