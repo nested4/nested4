@@ -48,7 +48,6 @@ Thanks for stopping by! Happy testing! 🤖
 <h3> Tech I Use:</h3>
 
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">][java]
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png">][selenium]
 [<a href="https://testng.org/doc/" target="_blank"><img src="https://blogs.perficient.com/files/2014/08/TestNG.png" alt="testng" width="40" height="40" /></a>][testng]
 <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>
@@ -59,7 +58,7 @@ Thanks for stopping by! Happy testing! 🤖
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">][html]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.hizliresim.com/bhkcevy.png" alt="javascript" width="38" height="38"/> </a> 
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://filiphric.com/_nuxt/img/cypress.b3fa0b5.png" alt="cypress" width="40" height="40"/> </a>
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="[https://filiphric.com/_nuxt/img/cypress.b3fa0b5.png](https://asset.brandfetch.io/idIq_kF0rb/idZxkJkFIi.svg)" alt="cypress" width="40" height="40"/> </a>
 </p> 
 
 
