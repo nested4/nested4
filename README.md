@@ -16,14 +16,10 @@
 <!-- ![image](https://user-images.githubusercontent.com/111647146/228283737-6bec0b10-ea3e-423f-a4d6-a897d8c6a006.png) -->
 
 <h2> I'm a Software Development Engineer in Test!</h2> 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="">
 
 <h2>My Superpowers: </h2>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 🚀 Expert in Selenium WebDriver, Java, Maven, Cucumber, JUnit, Jira, Jira Xray, XML, HTML, Jenkins, JDBC, Postman, Rest Assured, Page Object Model, Git, and GitHub
 
