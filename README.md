@@ -58,8 +58,7 @@ Thanks for stopping by! Happy testing! 🤖
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">][html]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.hizliresim.com/bhkcevy.png" alt="javascript" width="38" height="38"/> </a> 
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="[https://filiphric.com/_nuxt/img/cypress.b3fa0b5.png](https://asset.brandfetch.io/idIq_kF0rb/idZxkJkFIi.svg)" alt="cypress" width="40" height="40"/> </a>
-</p> 
+ 
 
 
 [vscode]: https://code.visualstudio.com/
@@ -72,7 +71,6 @@ Thanks for stopping by! Happy testing! 🤖
 [cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
-[linkedin]: https://www.linkedin.com/in/zelihaoznuk
 
 <h3> Tools I Use:</h3>
 
@@ -88,38 +86,20 @@ Thanks for stopping by! Happy testing! 🤖
 <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" alt="xray" width="40" height="40"/> </a>  
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 
-## Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-
-<br>
-
-<br>
-<br>
-
-## Social Networks:
-[![Instagram][3.2]][3]
-
-[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
-
-
-[3]: https://www.instagram.com/zelihaoznk
-
-
 <br>
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zelihaznk&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelihaznk&layout=compact&langs_count-16&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nested4&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nested4&layout=compact&langs_count-16&theme=dracula"/>
 
  
  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zelihaznk&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=nested4&&style=flat-square" align="center" />
 </div> 
 
 
-![snake gif](https://github.com/zelihaznk/zelihaznk/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/nested4/nested4/blob/output/github-contribution-grid-snake.gif)
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
