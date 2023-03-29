@@ -17,7 +17,7 @@
 
 <h2> I'm a Software Development Engineer in Test!</h2> 
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="">
+<img align"right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="">
 
 <h2>My Superpowers: </h2>
 
