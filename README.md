@@ -9,21 +9,29 @@
 
 <!-- ![image](https://user-images.githubusercontent.com/111647146/228283737-6bec0b10-ea3e-423f-a4d6-a897d8c6a006.png) -->
 
-I'm a Software Development Engineer in Test!
+<h2> I'm a Software Development Engineer in Test!</h2> 
 
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="">
 
-My Superpowers
+<h2>My Superpowers: </h2>
 
 🚀 Expert in Selenium WebDriver, Java, Maven, Cucumber, JUnit, Jira, Jira Xray, XML, HTML, Jenkins, JDBC, Postman, Rest Assured, Page Object Model, Git, and GitHub
 
-💻 Proficient in using IntelliJ and other popular IDEs
+👨‍🔬 Experienced in manual testing of web and mobile applications using JIRA Xray
 
-👨‍🔬 Experienced in manual and automated testing of web and mobile applications
+🤖 Proficient in automation on both UI and Backend. 
 
-🔍 Skilled in analyzing test results and creating defects in Jira and Test management in Jira Xray
+💻 UI testing over Java, Selenium Web Driver, JUNIT, TestNG and Cucumber 
 
-📊 Knowledgeable in Agile methodologies and Scrum ceremonies
+⚙️ Backend Tests are done using API, SQL, JDBC, Rest-Assured and Postman.
+
+🔍 Solid understanding and skills in Software Development Lifecycle (SDLC), Software Testing Lifecycle (STLC) within Agile/Scrum Methodology.
+
+📊 Excellent in analytical thinking, problem-solving
+
+🏈 Proven team player, self-motivated, positive and dynamic personality
+
+🈶 Gifted at learning new tools, techniques, approaches, methods, and concepts quickly
 
 My Secret Sauce
 
@@ -37,20 +45,6 @@ My Secret Sauce
 
 Thanks for stopping by! Happy testing! 🤖
 
-
-
-<h2>My name is Zeliha 👩🏻‍💻 </h2> 
-
-<h3>About me: </h3> 
-I have experience testing Manual, UI and Backend.
-While manual tests were performed using JIRA-Xray, UI testing over Java was used for Selenium Web Driver, JUNIT, TestNG and Cucumber.
-Backend Tests are done using API, SQL, JDBC, Postman.
-I also collaborated using Github.
-I have a solid understanding and skills in Software Development Lifecycle (SDLC), Software Testing Lifecycle (STLC) within Agile/Scrum Methodology.
-I have strong analytical and communication skills, work ethic, ability to ask research questions, organized, detail-oriented, fun and adaptable personality.
-<p></p>
-
-<br>
 <h3> Tech I Use:</h3>
 
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">][java]
