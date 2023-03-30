@@ -100,8 +100,8 @@ Thanks for stopping by! Happy testing! 🤖
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://github-readme-stats.vercel.app/api?username=nested4&theme=radical" align="center"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nested4&layout=compact&langs_count-16&theme=dracula" align="center"/>
-<!--   grid-snake -->
-![](https://github.com/nested4/nested4/blob/output/github-contribution-grid-snake.svg)
+<!--   grid-snake 
+![](https://github.com/nested4/nested4/blob/output/github-contribution-grid-snake.svg)-->
  
  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nested4&&style=flat-square" align="center" />
