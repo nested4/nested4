@@ -106,8 +106,9 @@ Thanks for stopping by! Happy testing! 🤖
  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nested4&&style=flat-square" align="center" />
 </div> 
-![snake gif](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.gif)
+ https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
