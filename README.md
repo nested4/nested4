@@ -99,8 +99,8 @@ Thanks for stopping by! Happy testing! 🤖
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=nested4&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nested4&layout=compact&langs_count-16&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nested4&theme=radical" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nested4&layout=compact&langs_count-16&theme=dracula" align="center"/>
 
  
  <div align="center">
