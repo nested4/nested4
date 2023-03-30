@@ -105,9 +105,12 @@ Thanks for stopping by! Happy testing! 🤖
  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nested4&&style=flat-square" align="center" />
 </div> 
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!--   grid-snake -->
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+
+ 
 <!-- Coder Uncle Pic
 <div id="header" align="right">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>-->
