@@ -99,7 +99,7 @@ Thanks for stopping by! Happy testing! 🤖
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  <br>
- ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=nested4&theme=radical" align="center"/>
