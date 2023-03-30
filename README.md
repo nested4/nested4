@@ -108,9 +108,10 @@ Thanks for stopping by! Happy testing! 🤖
 </div> 
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.gif) -->
 
-
+<br>
+<br>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
