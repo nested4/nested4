@@ -75,7 +75,7 @@ Thanks for stopping by! Happy testing! 🤖
 [postgresql]: https://www.postgresql.org/
 [sql]: https://www.w3schools.com/sql/
 [html]: https://www.w3schools.com/html/
-[github]: https://github.com/nested4
+[github]: https://github.com/zelihaznk
 [cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
@@ -109,6 +109,12 @@ Thanks for stopping by! Happy testing! 🤖
 
 ![](https://github.com/nested4/nested4/raw/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/nested4/nested4/blob/output/github-contribution-grid-snake.gif)
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
