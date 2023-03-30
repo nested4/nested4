@@ -98,7 +98,6 @@ Thanks for stopping by! Happy testing! 🤖
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 <img src="https://github-readme-stats.vercel.app/api?username=nested4&theme=radical" align="center"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nested4&layout=compact&langs_count-16&theme=dracula" align="center"/>
 
@@ -106,7 +105,7 @@ Thanks for stopping by! Happy testing! 🤖
  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nested4&&style=flat-square" align="center" />
 </div> 
-
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- Coder Uncle Pic
