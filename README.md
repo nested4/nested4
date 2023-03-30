@@ -107,7 +107,7 @@ Thanks for stopping by! Happy testing! 🤖
   <img src="https://komarev.com/ghpvc/?username=nested4&&style=flat-square" align="center" />
 </div> 
 
-
+![](https://github.com/nested4/nested4/raw/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/nested4/nested4/blob/output/github-contribution-grid-snake.gif)
 
 
@@ -119,4 +119,4 @@ Thanks for stopping by! Happy testing! 🤖
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![](https://github.com/nested4/nested4/raw/output/github-contribution-grid-snake.svg)
+
