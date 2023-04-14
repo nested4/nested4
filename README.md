@@ -10,7 +10,7 @@
 
  
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ff0000&lines=Hi!+I+am+Ihsan+¯\\_(ツ)_/¯;A+Full+Stack+Automation+Engineer+👨🏻‍💻;An+Electronics+Engineer+💡+⚡+⏚+⎍+⎓;And+a+Sinologist+☯+⛩️+🍜+🉐+㊗;You+can+find+some+useful+stuff+in+my+repos;Check+it+out!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%45644A&lines=Hi!+I+am+Ihsan+¯\\_(ツ)_/¯;A+Full+Stack+Automation+Engineer+👨🏻‍💻;An+Electronics+Engineer+💡+⚡+⏚+⎍+⎓;And+a+Sinologist+☯+⛩️+🍜+🉐+㊗;You+can+find+some+useful+stuff+in+my+repos;Check+it+out!)
 
 
 <!-- ![image](https://user-images.githubusercontent.com/111647146/228283737-6bec0b10-ea3e-423f-a4d6-a897d8c6a006.png) -->
