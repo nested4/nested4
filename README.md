@@ -27,9 +27,9 @@
 
 🤖 Proficient in automation on both UI and Backend. 
 
-💻 UI testing over Java, Selenium Web Driver, JUNIT, TestNG and Cucumber 
+💻 UI testing over Java, Selenium Web Driver, JUNIT, TestNG, Cucumber, Cypress and JavaScript 
 
-⚙️ Backend Tests are done using API, SQL, JDBC, Rest-Assured and Postman.
+⚙️ Backend Tests are done using API, SQL, JDBC, Rest-Assured, Postman, Cypress, JavaScript and Karate Framework
 
 🔍 Solid understanding and skills in Software Development Lifecycle (SDLC), Software Testing Lifecycle (STLC) within Agile/Scrum Methodology.
 
@@ -63,6 +63,7 @@ Thanks for stopping by! Happy testing! 🤖
 <a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpswKqlwex1UtYOHT6cWIVsJ3dQfEg__lFQ&usqp=CAU" alt="api" width="40" height="40"/> </a>
 <a href="https://swagger.io/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-qHhkU65OgRkaxFh1vRF4ycDfUOznjs7cEu5aXbMwWCYpNUMNPfDcL9Fox0a3_mbtAY&usqp=CAU" alt="swagger" width="40" height="40"/> </a>
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png">
+<img height="40" width="40" src="https://tr.wikipedia.org/wiki/JavaScript#/media/Dosya:Unofficial_JavaScript_logo_2.svg">
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">][html]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.hizliresim.com/bhkcevy.png" alt="javascript" width="38" height="38"/>
@@ -70,7 +71,8 @@ Thanks for stopping by! Happy testing! 🤖
 
 
 [vscode]: https://code.visualstudio.com/
-[java]: https://www.java.com/
+[java]: https://www.java.com
+[javascript]: https://www.javascript.com
 [selenium]: https://www.selenium.dev/
 [postgresql]: https://www.postgresql.org/
 [sql]: https://www.w3schools.com/sql/
