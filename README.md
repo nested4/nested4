@@ -61,7 +61,7 @@ Thanks for stopping by! Happy testing! 🤖
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png">
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-<img height="40" width="40" src="https://github.com/nested4/nested4/assets/111647146/44d950c2-ac3c-4ab2-855d-6793b1342f8a">
+<img height="40" width="40" src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg">
 <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
 
 [vscode]: https://code.visualstudio.com/
