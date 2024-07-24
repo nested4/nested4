@@ -61,7 +61,7 @@ Thanks for stopping by! Happy testing! 🤖
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png">
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-<img height="40" width="40" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtY29sb3I9IiM0YzQ2ZTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg==" style="background-color: white; padding: 5px; border-radius: 5px;">
+<img height="40" width="40" src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg" style="background-color: white; padding: 5px; border-radius: 5px;">
 <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
 
 [vscode]: https://code.visualstudio.com/
