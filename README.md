@@ -4,16 +4,12 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
- <h1 align=center style="color:aqua" >👋🏻 Welcome to my GitHub Profile 🤖 </h1>
+<h1 align=center style="color:aqua" >👋🏻 Welcome to my GitHub Profile 🤖 </h1>
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
- 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%45644A&lines=Hi!+I+am+Ihsan+¯\\_(ツ)_/¯;A+Full+Stack+Automation+Engineer+👨🏻‍💻;An+Electronics+Engineer+💡+⚡+⏚+⎍+⎓;And+a+Sinologist+☯+⛩️+🍜+🉐+㊗;You+can+find+some+useful+stuff+in+my+repos;Check+it+out!)
-
-
-<!-- ![image](https://user-images.githubusercontent.com/111647146/228283737-6bec0b10-ea3e-423f-a4d6-a897d8c6a006.png) -->
 
 <h2> I'm a Software Development Engineer in Test!</h2> 
 
@@ -27,15 +23,15 @@
 
 🤖 Proficient in automation on both UI and Backend. 
 
-💻 UI testing over Java, Selenium Web Driver, JUNIT, TestNG, Cucumber, Cypress and JavaScript 
+💻 UI testing with Java, Selenium WebDriver, JUnit, TestNG, Cucumber, Playwright, and Cypress with JavaScript and TypeScript
 
-⚙️ Backend Tests are done using API, SQL, JDBC, Rest-Assured, Postman, Cypress, JavaScript and Karate Framework
+⚙️ Backend Tests using API, SQL, JDBC, Rest-Assured, Postman, JavaScript, and Karate Framework
 
-🔍 Solid understanding and skills in Software Development Lifecycle (SDLC), Software Testing Lifecycle (STLC) within Agile/Scrum Methodology.
+🔍 Solid understanding and skills in Software Development Lifecycle (SDLC) and Software Testing Lifecycle (STLC) within Agile/Scrum Methodology.
 
-📊 Excellent in analytical thinking, problem-solving
+📊 Excellent analytical thinking and problem-solving skills
 
-🏈 Proven team player, self-motivated, positive and dynamic personality
+🏈 Proven team player, self-motivated, positive, and dynamic personality
 
 🈶 Gifted at learning new tools, techniques, approaches, methods, and concepts quickly
 
@@ -60,15 +56,13 @@ Thanks for stopping by! Happy testing! 🤖
 [<a href="https://testng.org/doc/" target="_blank"><img src="https://blogs.perficient.com/files/2014/08/TestNG.png" alt="testng" width="40" height="40" /></a>][testng]
 <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>
 <a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="appium" width="40" height="40"/></a>
-<a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpswKqlwex1UtYOHT6cWIVsJ3dQfEg__lFQ&usqp=CAU" alt="api" width="40" height="40"/> </a>
 <a href="https://swagger.io/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-qHhkU65OgRkaxFh1vRF4ycDfUOznjs7cEu5aXbMwWCYpNUMNPfDcL9Fox0a3_mbtAY&usqp=CAU" alt="swagger" width="40" height="40"/> </a>
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png">
-<img height="40" width="40" src="https://tr.wikipedia.org/wiki/JavaScript#/media/Dosya:Unofficial_JavaScript_logo_2.svg">
-[<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">][html]
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.hizliresim.com/bhkcevy.png" alt="javascript" width="38" height="38"/>
 <img height="40" width="40" src="https://github.com/nested4/nested4/assets/111647146/44d950c2-ac3c-4ab2-855d-6793b1342f8a">
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 
 [vscode]: https://code.visualstudio.com/
 [java]: https://www.java.com
@@ -81,6 +75,8 @@ Thanks for stopping by! Happy testing! 🤖
 [cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
+[playwright]: https://playwright.dev/
+[cypress]: https://www.cypress.io/
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -93,32 +89,4 @@ Thanks for stopping by! Happy testing! 🤖
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 [<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">][github]
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.xtremepc.co.kr/wp-content/uploads/2020/04/Apache-Maven.jpg?fit=1200%2C1200&ssl=1" alt="maven" width="40" height="40"/> </a> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
-<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" alt="xray" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<a><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<img src="https://github-readme-stats.vercel.app/api?username=nested4&theme=radical" align="center"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nested4&layout=compact&langs_count-16&theme=dracula" align="center"/>
-
-
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
- <br>
- 
- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nested4&&style=flat-square" align="center" />
-</div> 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
- 
-<!-- Coder Uncle Pic
-<div id="header" align="right">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>-->
-
-<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
-
-
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.xtremepc.co.kr/wp-content/uploads/2020/04/Apache-Maven.jpg?fit=120
