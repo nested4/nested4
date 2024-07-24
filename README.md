@@ -63,7 +63,7 @@ Thanks for stopping by! Happy testing! 🤖
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.hizliresim.com/bhkcevy.png" alt="javascript" width="38" height="38"/>
 <img height="40" width="40" src="https://github.com/nested4/nested4/assets/111647146/44d950c2-ac3c-4ab2-855d-6793b1342f8a">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://playwright.dev/docs/images/playwright.svg" alt="playwright" width="40" height="40"/>
+<img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
 
 [vscode]: https://code.visualstudio.com/
 [java]: https://www.java.com
