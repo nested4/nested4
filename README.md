@@ -83,11 +83,11 @@ Thanks for stopping by! Happy testing! 🤖
 
 <h3> Tools I Use:</h3>
 
-<a href="https://www.jetbrains.com/idea/features/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalKFwVDd0H7Xx8HaqWBbUmDRdrgxUoicGBZC0eIzTsww7Sev-ySXJ3in9Udv2R9CR3lo&usqp=CAU" alt="IntelliJ" width="40" height="40"/> </a>
-<img src ="https://user-images.githubusercontent.com/81612480/170158125-06d02884-224c-49a7-a455-8877279389f2.jpg" width="40" height="40" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalKFwVDd0H7Xx8HaqWBbUmDRdrgxUoicGBZC0eIzTsww7Sev-ySXJ3in9Udv2R9CR3lo&usqp=CAU" alt="IntelliJ" width="40" height="40"> 
+<img src ="https://user-images.githubusercontent.com/81612480/170158125-06d02884-224c-49a7-a455-8877279389f2.jpg" width="40" height="40" >
 <img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" >
-<a href="https://github.com/appium/appium-inspector" target="_blank" rel="noreferrer"> <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appiumInspector" width="120" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appiumInspector" width="120" height="40">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"> 
 <img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" >
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png" style="background-color: white; padding: 5px; border-radius: 5px;">
 <img height="40" width="120" src="https://jmeter.apache.org/images/logo.svg">
