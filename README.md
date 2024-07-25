@@ -89,5 +89,5 @@ Thanks for stopping by! Happy testing! 🤖
 <a href="https://github.com/appium/appium-inspector" target="_blank" rel="noreferrer"> <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appiumInspector" width="120" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" >
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png" style="background-color: white; padding: 5px; border-radius: 5px;">
 <img height="40" width="120" src="https://jmeter.apache.org/images/logo.svg">
