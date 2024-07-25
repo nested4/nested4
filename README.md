@@ -17,15 +17,15 @@
 
 <h2>My Superpowers: </h2>
 
-🚀 Expert in Selenium WebDriver, Java, Maven, Cucumber, JUnit, Jira, Jira Xray, XML, HTML, Jenkins, JDBC, Postman, Rest Assured, Page Object Model, Git, and GitHub
+🚀 Expert in Selenium WebDriver, Cypress, Playwright, Cucumber, Java, Javascript, Typescript,  Maven,  JUnit, Jira, Jira Xray, HTML, Jenkins, JDBC, Postman, Rest Assured, Git, and GitHub
 
-👨‍🔬 Experienced in manual testing of web and mobile applications using JIRA Xray
+👨‍🔬 Experienced in manual  testing of web and mobile applications using JIRA Xray
 
 🤖 Proficient in automation on both UI and Backend. 
 
 💻 UI testing with Java, Selenium WebDriver, JUnit, TestNG, Cucumber, Playwright, and Cypress with JavaScript and TypeScript
 
-⚙️ Backend Tests using API, SQL, JDBC, Rest-Assured, Postman, JavaScript, and Karate Framework
+⚙️ Backend Tests using API, SQL, JDBC, Rest-Assured, Postman, Newman, JavaScript, and Karate Framework
 
 🔍 Solid understanding and skills in Software Development Lifecycle (SDLC) and Software Testing Lifecycle (STLC) within Agile/Scrum Methodology.
 
