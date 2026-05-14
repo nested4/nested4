@@ -91,13 +91,15 @@ I'm a **Software Development Engineer in Test (SDET)** passionate about ensuring
 
 ---
 
-## 🏆 Key Achievements
+🏆 Key Achievements
 
-- 🎯 Reduced regression testing time by 70% through comprehensive automation
-- 📈 Implemented end-to-end testing pipeline serving 100+ microservices
-- 🛡️ Established quality gates preventing 95% of production defects
-- 🚀 Led migration from manual to automated testing across multiple products
-
+🏗️ Architected a Playwright + TypeScript automation framework from scratch — now the foundation for regression, smoke, and release validation across multiple product pods
+🌎 Led QA for international market expansion — multi-currency support, region-aware tax display, localized postal validation, and alternative payment methods validated end-to-end
+📱 Defined a cross-platform device matrix spanning iOS 15–26 and Android 14–16 with OEM-skin prioritization, covering Capacitor + Ionic hybrid app upgrades
+🔄 Standardized regression & smoke protocols with Jira Xray test management adopted across all dev pods
+💳 Owned payment quality — Stripe edge cases, fraud rule validation (Forter), promo/voucher reconciliation, and refund flows across web + iOS + Android
+📊 Built analytics validation discipline — Segment event integrity, GA4 e-commerce schema mapping for ad-spend optimization, AppsFlyer attribution debugging
+🚦 Established release readiness gates that catch cross-platform regressions before they reach production
 ---
 
 ## 📈 GitHub Statistics
